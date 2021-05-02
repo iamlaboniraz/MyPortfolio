@@ -1,0 +1,62 @@
+.contact{
+    padding: 5%;
+    height: 400px;
+}
+.col-md-3{
+    background: #ffb23f;
+    padding: 2%;
+}
+
+.contact-info h2{
+    margin-bottom: 10%;
+}
+.col-md-9{
+    background: #fff;
+    padding: 3%;
+   
+}
+
+.contact-form button{
+    background: #25274d;
+    color: #fff;
+    font-weight: 600;
+    width: 25%;
+}
+
+.contactTitle{
+    color: white;
+    font-family: 'Dela Gothic One', cursive;
+}
+
+/* submit message */
+#status{
+    width: 90%;
+    max-width: 500px;
+    text-align: center;
+    padding: 10px;
+    margin: 0 auto;
+    border-radius: 8px;
+}
+#status.success{
+    background-color: rgb(211,250,153);
+    animation: status 4s ease forwards;
+}
+#status.error{
+    background-color: rgb(250,129,92);
+    color: white;
+    animation: status 4s ease forwards;
+}
+@keyfromes status{
+    0%{
+        opacity: 1;
+        pointer-events:all;
+    }
+    90%{
+        opacity: 1;
+        pointer-events:all;
+    }
+    100%{
+        opacity: 0;
+        pointer-events:none;
+    }
+}
