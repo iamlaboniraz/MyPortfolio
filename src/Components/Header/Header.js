@@ -11,7 +11,7 @@ const Header = () => {
                     <h1>This is Tahiya Jahan Laboni</h1>
                     <Typed
                         className="typed-text"
-                        strings={["React Developer","Web Developer", "Full Stack Developer", "Programmer", "Python Programmer","Django/Python Developer"]}
+                        strings={["React Developer", "Web Developer", "Full Stack Developer", "Programmer", "Python Programmer", "Django/Python Developer"]}
                         typeSpeed={40}
                         backSpeed={60}
                         loop
@@ -27,33 +27,33 @@ const Header = () => {
                     <section class="mb-4 mt-5">
                         <a
                             class="btn btn-primary btn-floating m-1"
-                            style={{backgroundColor: "#3b5998"}}
+                            style={{ backgroundColor: "#3b5998" }}
                             href="#!"
                             role="button"
                         >
                             <FontAwesomeIcon icon={faGoogle} /></a>
                         <a
                             class="btn btn-primary btn-floating m-1"
-                            style={{backgroundColor: "#55acee"}}
+                            style={{ backgroundColor: "#55acee" }}
                             href="#!"
                             role="button"
                         ><FontAwesomeIcon icon={faLinkedin} /></a>
                         <a
                             class="btn btn-primary btn-floating m-1"
-                            style={{backgroundColor: "#dd4b39"}}
+                            style={{ backgroundColor: "#dd4b39" }}
                             href="#!"
                             role="button"><FontAwesomeIcon icon={faGithub} /></a>
 
                         <a
                             class="btn btn-primary btn-floating m-1"
-                            style={{backgroundColor: "#ac2bac"}}
+                            style={{ backgroundColor: "#ac2bac" }}
                             href="#!"
                             role="button"
                         ><FontAwesomeIcon icon={faFacebook} /></a>
-                        
+
                     </section>
                 </div>
-                <div class="text-center p-4" style={{backgroundColor: "rgba(0, 0, 0, 0.2)"}}>
+                <div class="text-center p-4" style={{ backgroundColor: "rgba(0, 0, 0, 0.2)" }}>
                     <a class="text-white" href="https://mdbootstrap.com/">@Tahiya Jahan Laboni</a>
                 </div>
             </footer>

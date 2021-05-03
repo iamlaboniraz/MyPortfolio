@@ -8,7 +8,6 @@ const NavbarPage = () => {
             <Navbar.Toggle style={{backgroundColor:"blue"}} aria-controls="responsive-navbar-nav" />
             <Navbar.Collapse id="responsive-navbar-nav">
                 <Nav className="mr-auto">
-                    
                 </Nav>
                 <Nav style={{fontFamily:"Georgia, 'Times New Roman', Times, serif"}}>
                     <Nav.Link className="navName" href="/home">Home</Nav.Link>
