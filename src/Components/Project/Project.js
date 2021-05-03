@@ -27,13 +27,13 @@ const Project = () => {
 
                         <div class="view overlay rounded z-depth-2">
                             <img src={project1} class="img-fluid" alt="SampleProject" />
-                            <a href="" class="blue-text">
+                            <a href="https://github.com/iamlaboniraz/E-courier-Project-for-RMG-Industry" target="_blank" rel="noreferrer" class="blue-text">
                                 <div class="mask rgba-white-slight"></div>
                             </a>
                         </div>
 
                         <div class="card-body">
-                            <a href="https://drive.google.com/file/d/1y91xmzYl5R0DHpFP7Ri4jrg0CZE5XC5K/view" class="green-text">
+                            <a href="https://drive.google.com/file/d/1y91xmzYl5R0DHpFP7Ri4jrg0CZE5XC5K/view" target="_blank" rel="noreferrer" class="green-text">
                                 <h5 class="font-weight-bold mt-2 mb-3"><i class="fas fa-chart-line pr-2"></i>E-courier for RMG industry</h5>
                             </a>
                             <h4 class="font-weight-bold mb-3">Online Sample Delivery System for RMG Industries using <strong style={{ color: "red" }}>Django</strong> </h4>
@@ -58,13 +58,13 @@ const Project = () => {
                     <div class="col-md-6 col-xl-5 mb-4">
                         <div class="view overlay rounded z-depth-2">
                             <img src={project2} class="img-fluid" alt="SampleProject" />
-                            <a  href="" class="blue-text">
+                            <a  href="http://hotel.iwx.me/" target="_blank" rel="noreferrer" class="blue-text">
                                 <div class="mask rgba-white-slight"></div>
                             </a>
                         </div>
 
                         <div class="card-body">
-                            <a href="" class="blue-text">
+                            <a href="http://hotel.iwx.me/" class="blue-text">
                                 <h5 class="font-weight-bold mt-2 mb-3"><i class="fas fa-eye pr-2"></i>Hotel Management</h5>
                             </a>
                             <h4 class="font-weight-bold mb-3">Hotel management project using<strong style={{ color: "red" }}>Django</strong></h4>
@@ -92,13 +92,13 @@ const Project = () => {
 
                         <div class="view overlay rounded z-depth-2">
                             <img src={project3} class="img-fluid" alt="SampleProject" />
-                            <a href="" class="blue-text">
+                            <a href="https://kids-day-care.web.app/" target="_blank" rel="noreferrer" class="blue-text">
                                 <div class="mask rgba-white-slight"></div>
                             </a>
                         </div>
 
                         <div class="card-body pb-md-0">
-                            <a href="" class="brown-text">
+                            <a href="https://kids-day-care.web.app/" target="_blank" rel="noreferrer" class="brown-text">
                                 <h5 class="font-weight-bold mt-2 mb-3"><i class="fas fa-camera pr-2"></i>Kids Day Care</h5>
                             </a>
                             <h4 class="font-weight-bold mb-3">Kids Day Care Using <strong style={{ color: "red" }}>React & NodeJs</strong> </h4>
@@ -124,13 +124,13 @@ const Project = () => {
                         <div class="view overlay rounded z-depth-2">
                             <img src={project4} class="img-fluid"
                                 alt="SampleProject" />
-                            <a href="" class="blue-text">
+                            <a href="https://fresh-valley-bee25.web.app/" target="_blank" rel="noreferrer" class="blue-text">
                                 <div class="mask rgba-white-slight"></div>
                             </a>
                         </div>
 
                         <div class="card-body pb-0">
-                            <a href="" class="cyan-text">
+                            <a href="https://fresh-valley-bee25.web.app/" target="_blank" rel="noreferrer" class="cyan-text">
                                 <h5 class="font-weight-bold mt-2 mb-3"><i class="fas fa-phone pr-2"></i>Shop Raw Materials</h5>
                             </a>
                             <h4 class="font-weight-bold mb-3">Shop Raw Materials using <strong style={{ color: "red" }}>React & NodeJs</strong> </h4>
@@ -162,13 +162,13 @@ const Project = () => {
 
                         <div class="view overlay rounded z-depth-2">
                             <img style={{ height: "500px", width: "400px" }} src={project5} class="img-fluid" alt="SampleProject" />
-                            <a href="" class="blue-text">
+                            <a href="https://github.com/iamlaboniraz/hotel-system-mobile-apps-using-kivy" class="blue-text" target="_blank" rel="noreferrer">
                                 <div class="mask rgba-white-slight"></div>
                             </a>
                         </div>
 
                         <div class="card-body pb-md-0">
-                            <a href="" class="brown-text">
+                            <a href="https://github.com/iamlaboniraz/hotel-system-mobile-apps-using-kivy" target="_blank" rel="noreferrer" class="brown-text">
                                 <h5 class="font-weight-bold mt-2 mb-3"><i class="fas fa-camera pr-2"></i>Mobile Apps</h5>
                             </a>
                             <h4 class="font-weight-bold mb-3">Hotel Management Mobile apps using <strong style={{ color: "red" }}>Python Kivy</strong> </h4>
@@ -191,13 +191,13 @@ const Project = () => {
                         <div class="view overlay rounded z-depth-2">
                             <img src={project6} class="img-fluid"
                                 alt="SampleProject" />
-                            <a href="" class="blue-text">
+                            <a href="https://github.com/iamlaboniraz/my-google-foobar-experience" target="_blank" rel="noreferrer" class="blue-text">
                                 <div class="mask rgba-white-slight"></div>
                             </a>
                         </div>
 
                         <div class="card-body pb-0">
-                            <a href="" class="cyan-text">
+                            <a href="https://github.com/iamlaboniraz/my-google-foobar-experience" target="_blank" rel="noreferrer" class="cyan-text">
                                 <h5 class="font-weight-bold mt-2 mb-3"><i class="fas fa-phone pr-2"></i>Foo bar Challenge</h5>
                             </a>
                             <h4 class="font-weight-bold mb-3">My <strong style={{ color: "red" }}>Google Foobar</strong> Challenge Experience</h4>
@@ -228,13 +228,13 @@ const Project = () => {
 
                         <div class="view overlay rounded z-depth-2">
                             <img src={project7} class="img-fluid" alt="SampleProject" />
-                            <a href="" class="blue-text">
+                            <a href="https://6056223696f8a4726649311a--cranky-nightingale-9179b6.netlify.app/" target="_blank" rel="noreferrer" class="blue-text">
                                 <div class="mask rgba-white-slight"></div>
                             </a>
                         </div>
 
                         <div class="card-body pb-md-0">
-                            <a href="" class="brown-text">
+                            <a href="https://6056223696f8a4726649311a--cranky-nightingale-9179b6.netlify.app/" target="_blank" rel="noreferrer" class="brown-text">
                                 <h5 class="font-weight-bold mt-2 mb-3"><i class="fas fa-camera pr-2"></i>Travel Way</h5>
                             </a>
                             <h4 class="font-weight-bold mb-3">Online Vehicle choose for traveling using <strong style={{ color: "red" }}>React</strong> </h4>
@@ -258,13 +258,13 @@ const Project = () => {
                         <div class="view overlay rounded z-depth-2">
                             <img src={project8} class="img-fluid"
                                 alt="SampleProject" />
-                            <a href="" class="blue-text">
+                            <a href="https://github.com/iamlaboniraz/pizza_ordering" target="_blank" rel="noreferrer" class="blue-text">
                                 <div class="mask rgba-white-slight"></div>
                             </a>
                         </div>
 
                         <div class="card-body pb-0">
-                            <a href="" class="cyan-text">
+                            <a href="https://github.com/iamlaboniraz/pizza_ordering" target="_blank" rel="noreferrer" class="cyan-text">
                                 <h5 class="font-weight-bold mt-2 mb-3"><i class="fas fa-phone pr-2"></i>Online Pizza Order</h5>
                             </a>
                             <h4 class="font-weight-bold mb-3">Online Pizza Ordering project using<strong style={{ color: "red" }}>Django</strong> </h4>
