@@ -25,7 +25,7 @@ const About = () => {
                          Notre Dame University Bangladesh in December 2019. I also completed my internship from Divine IT Ltd for 4 months. 
                          I worked in CNC Group in Bangladesh office as a Python Programmer since February-2020 to January-2021. 
                         I love to do Coding and learn new thing.
-                        <a style={{color:"red"}} className="experienceButton" href="/experience"> Read More</a>
+                        <a style={{color:"red"}} className="experienceButton" href="/service"> Read More</a>
                         </p>
                     
                     <a href="https://github.com/iamlaboniraz"><h3>Github Profile</h3></a>
