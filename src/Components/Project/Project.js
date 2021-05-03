@@ -46,9 +46,9 @@ const Project = () => {
                                 <h5><strong style={{ color: "green" }}>Technology -</strong> Python, Django, HTML/CSS, Bootstrap, Javascript</h5>
 
                             </p>
-                            <a type="button" href="https://github.com/iamlaboniraz/E-courier-Project-for-RMG-Industry" target="_blank" class="btn btn-success btn-rounded btn-md"> Github</a>
-                            <a type="button" href="https://drive.google.com/file/d/1A39nyEt6nEFCUoYhZxRuFTOsGgnn_Yad/view" target="_blank" class="btn-link btn btn-success btn-rounded btn-md"> Report</a>
-                            <a type="button" href="https://drive.google.com/file/d/1y91xmzYl5R0DHpFP7Ri4jrg0CZE5XC5K/view" target="_blank" class="btn-link btn btn-success btn-rounded btn-md"> Paper</a>
+                            <a type="button" href="https://github.com/iamlaboniraz/E-courier-Project-for-RMG-Industry" target="_blank" rel="noreferrer" class="btn btn-success btn-rounded btn-md"> Github</a>
+                            <a type="button" href="https://drive.google.com/file/d/1A39nyEt6nEFCUoYhZxRuFTOsGgnn_Yad/view" target="_blank" rel="noreferrer" class="btn-link btn btn-success btn-rounded btn-md"> Report</a>
+                            <a type="button" href="https://drive.google.com/file/d/1y91xmzYl5R0DHpFP7Ri4jrg0CZE5XC5K/view" target="_blank" rel="noreferrer" class="btn-link btn btn-success btn-rounded btn-md"> Paper</a>
                         </div>
                     </div>
                     {/* end project 1 */}
@@ -78,8 +78,8 @@ const Project = () => {
                                 <h5><strong style={{ color: "green" }}>Technology -</strong> Python, Django, HTML/CSS, Bootstrap, Javascript</h5>
 
                             </p>
-                            <a href="https://github.com/iamlaboniraz/hotel-management-using-django" target="_blank" class="btn btn-success btn-rounded btn-md"> Github</a>
-                            <a type="button" href="http://hotel.iwx.me/" target="_blank" class="btn-link btn btn-success btn-rounded btn-md"> Website</a>
+                            <a href="https://github.com/iamlaboniraz/hotel-management-using-django" target="_blank" rel="noreferrer" class="btn btn-success btn-rounded btn-md"> Github</a>
+                            <a type="button" href="http://hotel.iwx.me/" target="_blank" rel="noreferrer" class="btn-link btn btn-success btn-rounded btn-md"> Website</a>
                         </div>
                     </div>
                     {/* end project 2 */}
@@ -111,8 +111,8 @@ const Project = () => {
                                 <h5><strong style={{ color: "green" }}>Technology -</strong> React, Router, NodeJS, MongoDB, Bootstrap, Firebase, Material-UI</h5>
 
                             </p>
-                            <a href="https://github.com/iamlaboniraz/Kids-day-care" target="_blank" class="btn btn-success btn-rounded btn-md"> Github</a>
-                            <a type="button" href="https://kids-day-care.web.app/" target="_blank" class="btn-link btn btn-success btn-rounded btn-md"> Website</a>
+                            <a href="https://github.com/iamlaboniraz/Kids-day-care" target="_blank" rel="noreferrer" class="btn btn-success btn-rounded btn-md"> Github</a>
+                            <a type="button" href="https://kids-day-care.web.app/" target="_blank" rel="noreferrer" class="btn-link btn btn-success btn-rounded btn-md"> Website</a>
                         </div>
                     </div>
                     {/* end project 3 */}
@@ -144,8 +144,8 @@ const Project = () => {
                                 <h5><strong style={{ color: "green" }}>Technology -</strong> React, Router, NodeJS, MongoDB, Bootstrap, Firebase</h5>
 
                             </p>
-                            <a href="https://github.com/iamlaboniraz/Shop-Raw-Materials" target="_blank" class="btn btn-success btn-rounded btn-md"> Github</a>
-                            <a type="button" target="_blank" href="https://fresh-valley-bee25.web.app/" class="btn-link btn btn-success btn-rounded btn-md"> Website</a>
+                            <a href="https://github.com/iamlaboniraz/Shop-Raw-Materials" target="_blank" rel="noreferrer" class="btn btn-success btn-rounded btn-md"> Github</a>
+                            <a type="button" target="_blank" rel="noreferrer" href="https://fresh-valley-bee25.web.app/" class="btn-link btn btn-success btn-rounded btn-md"> Website</a>
 
                         </div>
                     </div>
@@ -179,7 +179,7 @@ const Project = () => {
                                 <li>Checkout and Checkin</li>
                                 <h5><strong style={{ color: "green" }}>Technology -</strong> Python Kivy, SQLite</h5>
                             </p>
-                            <a href="https://github.com/iamlaboniraz/hotel-system-mobile-apps-using-kivy" target="_blank" class="btn btn-success btn-rounded btn-md"> Github</a>
+                            <a href="https://github.com/iamlaboniraz/hotel-system-mobile-apps-using-kivy" target="_blank" rel="noreferrer" class="btn btn-success btn-rounded btn-md"> Github</a>
                         </div>
                     </div>
                     {/* end project 5 */}
@@ -210,7 +210,7 @@ const Project = () => {
                                 Currently I am almost finish my level 4 and then just have one more label to go.
                                 <h5><strong style={{ color: "green" }}>Technology -</strong> Python, Data structure & Algorithm</h5>
                             </p>
-                            <a href="https://github.com/iamlaboniraz/my-google-foobar-experience" target="_blank" class="btn btn-success btn-rounded btn-md"> Github</a>
+                            <a href="https://github.com/iamlaboniraz/my-google-foobar-experience" target="_blank" rel="noreferrer" class="btn btn-success btn-rounded btn-md"> Github</a>
 
                         </div>
                     </div>
@@ -245,8 +245,8 @@ const Project = () => {
                                 <li>Detail Page</li>
                                 <h5><strong style={{ color: "green" }}>Technology -</strong> React</h5>
                             </p>
-                            <a href="https://github.com/Porgramming-Hero-web-course/react-auth-iamlaboniraz" target="_blank" class="btn btn-success btn-rounded btn-md"> Github</a>
-                            <a type="button" href="https://6056223696f8a4726649311a--cranky-nightingale-9179b6.netlify.app/" target="_blank" class="btn-link btn btn-success btn-rounded btn-md"> Website</a>
+                            <a href="https://github.com/Porgramming-Hero-web-course/react-auth-iamlaboniraz" target="_blank" rel="noreferrer" class="btn btn-success btn-rounded btn-md"> Github</a>
+                            <a type="button" href="https://6056223696f8a4726649311a--cranky-nightingale-9179b6.netlify.app/" target="_blank" rel="noreferrer" class="btn-link btn btn-success btn-rounded btn-md"> Website</a>
                         </div>
                     </div>
                     {/* end project 7 */}
@@ -275,7 +275,7 @@ const Project = () => {
                                 <li>Order page</li>
                                 <h5><strong style={{ color: "green" }}>Technology -</strong> Djnago</h5>
                             </p>
-                            <a href="https://github.com/iamlaboniraz/pizza_ordering" target="_blank" class="btn btn-success btn-rounded btn-md"> Github</a>
+                            <a href="https://github.com/iamlaboniraz/pizza_ordering" target="_blank" rel="noreferrer" class="btn btn-success btn-rounded btn-md"> Github</a>
                         
                         </div>
                     </div>

@@ -17,7 +17,7 @@ const About = () => {
               <h2 class="title">About me</h2>
               <div class="about-content">
                   <div class="column left">
-                      <img src={img} alt=""/>
+                      <img src={img} alt='some value'/>
                   </div>
                   <div class="column right">
                     <div class="text">I'm Banladeshi and I'm a <span class="typing-2">Programmer</span></div>
@@ -31,8 +31,8 @@ const About = () => {
                     <a href="https://github.com/iamlaboniraz"><h3>Github Profile</h3></a>
                     <a href="https://github.com/iamlaboniraz"><h3>LinedIn Profile</h3></a>
                     
-                    <a className="resumeDesign" target="_blank" href="https://drive.google.com/file/d/1LH3m1QhAtWIpuwWcIIi38SbHKVxYBDEw/view">Check My Resume</a>
-                    <a className="resumeDesign" target="_blank" href={resume1}>Download Resume(PDF)</a>
+                    <a className="resumeDesign" target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1LH3m1QhAtWIpuwWcIIi38SbHKVxYBDEw/view">Check My Resume</a>
+                    <a className="resumeDesign" target="_blank" rel="noreferrer" href={resume1}>Download Resume(PDF)</a>
                 </div>
               </div>
           </div>
