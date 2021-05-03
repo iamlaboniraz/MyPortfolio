@@ -26,8 +26,8 @@ const Project = () => {
                     <div class="col-md-6 col-xl-5 mb-4">
 
                         <div class="view overlay rounded z-depth-2">
-                            <img src={project1} class="img-fluid" alt="Sample project image" />
-                            <a>
+                            <img src={project1} class="img-fluid" alt="SampleProject" />
+                            <a href="" class="blue-text">
                                 <div class="mask rgba-white-slight"></div>
                             </a>
                         </div>
@@ -57,8 +57,8 @@ const Project = () => {
                     {/* project 2 */}
                     <div class="col-md-6 col-xl-5 mb-4">
                         <div class="view overlay rounded z-depth-2">
-                            <img src={project2} class="img-fluid" alt="Sample project image" />
-                            <a>
+                            <img src={project2} class="img-fluid" alt="SampleProject" />
+                            <a  href="" class="blue-text">
                                 <div class="mask rgba-white-slight"></div>
                             </a>
                         </div>
@@ -91,8 +91,8 @@ const Project = () => {
                     <div class="col-md-6 col-xl-5 mb-md-0 mb-4">
 
                         <div class="view overlay rounded z-depth-2">
-                            <img src={project3} class="img-fluid" alt="Sample project image" />
-                            <a>
+                            <img src={project3} class="img-fluid" alt="SampleProject" />
+                            <a href="" class="blue-text">
                                 <div class="mask rgba-white-slight"></div>
                             </a>
                         </div>
@@ -123,8 +123,8 @@ const Project = () => {
 
                         <div class="view overlay rounded z-depth-2">
                             <img src={project4} class="img-fluid"
-                                alt="Sample project image" />
-                            <a>
+                                alt="SampleProject" />
+                            <a href="" class="blue-text">
                                 <div class="mask rgba-white-slight"></div>
                             </a>
                         </div>
@@ -161,8 +161,8 @@ const Project = () => {
                     <div class="col-md-6 col-xl-5 mb-md-4 mt-5 mb-4">
 
                         <div class="view overlay rounded z-depth-2">
-                            <img style={{ height: "500px", width: "400px" }} src={project5} class="img-fluid" alt="Sample project image" />
-                            <a>
+                            <img style={{ height: "500px", width: "400px" }} src={project5} class="img-fluid" alt="SampleProject" />
+                            <a href="" class="blue-text">
                                 <div class="mask rgba-white-slight"></div>
                             </a>
                         </div>
@@ -190,8 +190,8 @@ const Project = () => {
 
                         <div class="view overlay rounded z-depth-2">
                             <img src={project6} class="img-fluid"
-                                alt="Sample project image" />
-                            <a>
+                                alt="SampleProject" />
+                            <a href="" class="blue-text">
                                 <div class="mask rgba-white-slight"></div>
                             </a>
                         </div>
@@ -227,8 +227,8 @@ const Project = () => {
                     <div class="col-md-6 col-xl-5 mb-md-4 mt-5 mb-4">
 
                         <div class="view overlay rounded z-depth-2">
-                            <img src={project7} class="img-fluid" alt="Sample project image" />
-                            <a>
+                            <img src={project7} class="img-fluid" alt="SampleProject" />
+                            <a href="" class="blue-text">
                                 <div class="mask rgba-white-slight"></div>
                             </a>
                         </div>
@@ -257,8 +257,8 @@ const Project = () => {
 
                         <div class="view overlay rounded z-depth-2">
                             <img src={project8} class="img-fluid"
-                                alt="Sample project image" />
-                            <a>
+                                alt="SampleProject" />
+                            <a href="" class="blue-text">
                                 <div class="mask rgba-white-slight"></div>
                             </a>
                         </div>

@@ -1,6 +1,6 @@
 import { faMailBulk, faPhone } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faGithub, faLinkedinIn } from '@fortawesome/free-brands-svg-icons';
+import { faGithub } from '@fortawesome/free-brands-svg-icons';
 import React from 'react';
 import './Contact.css';
 import bg1 from "../../images/about2.jfif";
@@ -22,7 +22,7 @@ const Contact = () => {
                         <div class="col-md-3">
                             <div class="contact-info">
 
-                                <img style={{ width: '100px', height: "90px" }} src="https://image.ibb.co/kUASdV/contact-image.png" alt="image" />
+                                <img style={{ width: '100px', height: "90px" }} src="https://image.ibb.co/kUASdV/contact-image.png" alt="emailImage" />
                                 <h2 className="contactTitle">Contact Me</h2>
                                 <hr/>
                                 <h4>How to reach me -</h4>
