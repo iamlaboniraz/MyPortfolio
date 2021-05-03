@@ -25,7 +25,7 @@ const Contact = () => {
                                 <img style={{ width: '100px', height: "90px" }} src="https://image.ibb.co/kUASdV/contact-image.png" alt="image" />
                                 <h2 className="contactTitle">Contact Me</h2>
                                 <hr/>
-                                <h4>Please contact me for your further require </h4>
+                                <h4>How to reach me -</h4>
 
                                 <div>
                                     <p>

@@ -16,6 +16,7 @@ import Contact from './Components/Contact/Contact';
 import Project from './Components/Project/Project';
 import Blog from './Components/Blog/Blog';
 import Services from './Components/Services/Services';
+import Experience from './Components/Experience/Experience';
 function App() {
   return (
   <>
@@ -43,6 +44,9 @@ function App() {
           </Route>
           <Route path="/service">
             <Services></Services>
+          </Route>
+          <Route path="/experience">
+            <Experience></Experience>
           </Route>
           <Route exact path="/">
             <Home></Home>

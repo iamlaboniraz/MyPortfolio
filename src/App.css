@@ -4,28 +4,29 @@
   --primary-white:#fff;
   --primary-orange:#f9ab00;
   --primary-dark: rgba(255,255,255,0);
-  --primary-red: #ef4035;
+  --primary-red: red;
   --primary-hover-red: #f33501;
 }
 .body{
   font-family: 'Antonio', sans-serif;
 }
+
 nav{
   z-index: 2;
 }
 
-nav a.nav-link{
+.navName{
   font-weight: 500;
   letter-spacing: 0.0375rem;
   cursor: pointer;
 }
-nav ul li{
+.navName{
   text-transform: uppercase;
 }
-.navbar-nav > li > a{
+.navName{
   margin-right: 0.75rem;
   margin-left: 0.75rem;
-  color: var(--primary-white) !important;
+  color: var(--primary-red) !important;
   border-top: 0.1875rem solid var(--primary-dark);
 }
 .navbar-brand{
@@ -40,11 +41,11 @@ nav ul li{
   }
 }
 
-.navbar-nav > li > a.active, .navbar-nav > li > a.active:focus{
+.navName.active:focus{
   border-top: 0.1875rem solid var(--primary-orange);
 }
 
-.navbar-nav > li > a:hover{
+.navName:hover{
   border-top: 0.1875rem solid var(--primary-orange);
 }
 
@@ -74,6 +75,8 @@ nav ul li{
 .main-info h1{
   color: var(--primary-hover-red);
   text-transform: uppercase;
+  margin: 60px;
+
 }
 
 /* Typed text */
@@ -81,6 +84,7 @@ nav ul li{
 .typed-text{
   font-size:2rem;
   color: var(--primary-white);
+  margin-bottom: 20px;
 }
 @media(max-width:768px){
   .main-info h1{

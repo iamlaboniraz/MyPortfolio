@@ -3,3 +3,10 @@
     margin-left: 20px;
     color: aliceblue;
 }
+.projects{
+    margin-top: 50px;
+    height:4px;
+    border-width:0;
+    color:rgb(76, 0, 255);
+    background-color:rgb(76, 0, 255);
+}

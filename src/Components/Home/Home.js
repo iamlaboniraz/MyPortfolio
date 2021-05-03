@@ -1,7 +1,7 @@
 import React from 'react';
 import Particles from "react-particles-js";
 import Header from '../Header/Header';
-import Navbar from '../Nabvar/Navbar';
+import NavbarPage from '../Nabvar/Navbar';
 const Home = () => {
     return (
         <div>
@@ -26,7 +26,7 @@ const Home = () => {
      }
    }}
   ></Particles>
-    <Navbar></Navbar>
+    <NavbarPage></NavbarPage>
   <Header></Header>
         </div>
     );

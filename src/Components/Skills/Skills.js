@@ -12,7 +12,34 @@ const Skills = () => {
                         <div class="skills-content">
                             <div class="column left">
                                 <div class="text">My creative skills & Habituate with</div>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos, ratione error est recusandae consequatur, iusto illum deleniti quidem impedit, quos quaerat quis minima sequi. Cupiditate recusandae laudantium esse, harum animi aspernatur quisquam et delectus ipsum quam alias quaerat? Quasi hic quidem illum. Ad delectus natus aut hic explicabo minus quod.</p>
+                                <hr/>
+                                <p>
+                                <strong style={{color:"red"}}>Habituate with -</strong> 
+                                <li>
+                                    Python, ReactJs, NodeJS, GraphQL, Data structure & algorithm, HTML/CSS, Bootstrap, JavaScript, GitHub, Material-UI, React-Bootstrap, DBMS (Oracle, MySQL, PostgreSQL, MongoDB), Hosting (Firebase, Heroku, Netlify)
+                                </li>
+                                </p>
+
+                                <p>
+                                <strong style={{color:"red"}}>Familiar with	: </strong>
+                                <li>
+                                    C, Java, PHP, Redux, Firebase, Machine Learning    
+                                </li>
+                                </p>
+
+                                <p>
+                                <strong style={{color:"red"}}>Framework : </strong>
+                                <li>
+                                   Django, Kivy
+                                </li>
+                                </p>
+
+                                <p>
+                                <strong style={{color:"red"}}>Currently Learning :</strong> 
+                                <li>
+                                    Data Science, React Native, IELTS Preparation
+                                </li>
+                                </p>
                                 <a href="/service">Check my services</a>
                             </div>
                             <div class="column right">
@@ -26,7 +53,7 @@ const Skills = () => {
 
                                 <div class="bars">
                                     <div class="info">
-                                        <span>JavaScript,React,GraphQL</span>
+                                        <span>JavaScript, React, GraphQL</span>
                                         <span>80%</span>
                                     </div>
                                     <div class="line js"></div>
@@ -34,7 +61,7 @@ const Skills = () => {
 
                                 <div class="bars">
                                     <div class="info">
-                                        <span>Bootstrap,Data structure & Algorithm</span>
+                                        <span>Bootstrap, Data structure & Algorithm</span>
                                         <span>80%</span>
                                     </div>
                                     <div class="line js"></div>
