@@ -1,6 +1,5 @@
 import React from 'react';
-import { FontAwesomeIcon, fontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { Navbar, Nav, Container, NavDropdown } from 'react-bootstrap';
+import { Navbar, Nav } from 'react-bootstrap';
 const NavbarPage = () => {
     return (
         <Navbar style={{backgroundColor:"black"}} collapseOnSelect expand="lg" variant="dark">

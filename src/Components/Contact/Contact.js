@@ -1,6 +1,6 @@
-import { faLocationArrow, faMailBulk, faPhone } from '@fortawesome/free-solid-svg-icons';
+import { faMailBulk, faPhone } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faFacebook, faGithub, faGoogle, faInstagram, faLinkedinIn } from '@fortawesome/free-brands-svg-icons';
+import { faGithub, faLinkedinIn } from '@fortawesome/free-brands-svg-icons';
 import React from 'react';
 import './Contact.css';
 import bg1 from "../../images/about2.jfif";

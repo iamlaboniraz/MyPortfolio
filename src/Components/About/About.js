@@ -2,8 +2,7 @@ import React from 'react';
 import img from "../../images/67874995_731516630651724_9070717646340620288_o.jpg"
 import Navbar from '../Nabvar/Navbar';
 import "./About.css";
-import { faStudiovinari } from '@fortawesome/free-brands-svg-icons';
-import { faConciergeBell, faGraduationCap, faLaptop, faUserGraduate } from '@fortawesome/free-solid-svg-icons';
+import { faGraduationCap, faLaptop, faUserGraduate } from '@fortawesome/free-solid-svg-icons';
 
 import resume1 from "../../Resume(Tahiya-Jahan-Laboni).exe";
 // import resume from "../../Resume(Tahiya-Jahan-Laboni).pdf";
