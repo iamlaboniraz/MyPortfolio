@@ -20,7 +20,10 @@ const Services = () => {
                     <div class="front"> <img id="team1" alt='some value' class="team" src={python} /> </div>
                     <div class="back">
                         <p class="title_name">Python</p>
-                        <p class="job">Django, Django Rest API, Kivy</p> <a href="#"><i class="fab fa-facebook-square social fa-2x"></i></a> <a href="#"><i class="fab fa-linkedin social fa-2x"></i></a> <a href="#"><i class="fab fa-twitter-square social fa-2x"></i></a>
+                        <p class="job">Django, Django Rest API, Kivy</p>
+                         {/* <a href="#"><i class="fab fa-facebook-square social fa-2x"></i></a>
+                         <a href="#"><i class="fab fa-linkedin social fa-2x"></i></a> 
+                         <a href="#"><i class="fab fa-twitter-square social fa-2x"></i></a> */}
                     
                     </div>
                 </div>
@@ -28,21 +31,30 @@ const Services = () => {
                     <div class="front"> <img id="team2" alt='some value' class="team" src={django}/> </div>
                     <div class="back">
                         <p class="title_name">Django Rest Framework</p>
-                        <p class="job">Django, Django Rest API</p> <a href="#"><i class="fab fa-facebook-square social fa-2x"></i></a> <a href="#"><i class="fab fa-linkedin social fa-2x"></i></a> <a href="#"><i class="fab fa-twitter-square social fa-2x"></i></a>
+                        <p class="job">Django, Django Rest API</p> 
+                        {/* <a href="#"><i class="fab fa-facebook-square social fa-2x"></i></a> 
+                        <a href="#"><i class="fab fa-linkedin social fa-2x"></i></a>
+                         <a href="#"><i class="fab fa-twitter-square social fa-2x"></i></a> */}
                     </div>
                 </div>
                 <div class="item">
                     <div class="front"> <img id="team3" alt='some value' class="team" src={react} /> </div>
                     <div class="back">
                         <p class="title_name">React</p>
-                        <p class="job">ReactJs, NodeJs, MongoDB</p> <a href="#"><i class="fab fa-facebook-square social fa-2x"></i></a> <a href="#"><i class="fab fa-linkedin social fa-2x"></i></a> <a href="#"><i class="fab fa-twitter-square social fa-2x"></i></a>
+                        <p class="job">ReactJs, NodeJs, MongoDB</p> 
+                        {/* <a href="#"><i class="fab fa-facebook-square social fa-2x"></i></a> 
+                        <a href="#"><i class="fab fa-linkedin social fa-2x"></i></a> 
+                        <a href="#"><i class="fab fa-twitter-square social fa-2x"></i></a> */}
                     </div>
                 </div>
                 <div class="item">
                     <div class="front"> <img id="team4" alt='some value' class="team" src={kivy} /> </div>
                     <div class="back">
                         <p class="title_name">Python Kivy</p>
-                        <p class="job">Kivy Framework</p> <a href="#"><i class="fab fa-facebook-square social fa-2x"></i></a> <a href="#"><i class="fab fa-linkedin social fa-2x"></i></a> <a href="#"><i class="fab fa-twitter-square social fa-2x"></i></a>
+                        <p class="job">Kivy Framework</p>
+                         {/* <a href="#"><i class="fab fa-facebook-square social fa-2x"></i></a> 
+                         <a href="#"><i class="fab fa-linkedin social fa-2x"></i></a> 
+                         <a href="#"><i class="fab fa-twitter-square social fa-2x"></i></a> */}
                     </div>
                 </div>
                 <div class="item">
